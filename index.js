@@ -12,7 +12,8 @@ const allowedOrigins = [
     'https://orgfarm-b19a1df799-dev-ed.develop.lightning.force.com',
     'https://login.salesforce.com',
     'https://test.salesforce.com',
-    'https://0283-115-246-222-91.ngrok-free.app' // replace this if ngrok URL changes
+    'https://0283-115-246-222-91.ngrok-free.app', // replace this if ngrok URL changes
+    'https://ai-agent-prvb.onrender.com'
 ];
 
 // ✅ CORS middleware setup
